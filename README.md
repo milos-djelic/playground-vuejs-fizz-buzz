@@ -1,29 +1,11 @@
-# code
+# Fizz Buzz
+*My first project with VueJS.*
 
-## Project setup
-```
-npm install
-```
+Here I created a basic interface with the logic needed to play a simple game ([Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz)).
 
-### Compiles and hot-reloads for development
+## Installation
 ```
+npm i
+npm run build
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
